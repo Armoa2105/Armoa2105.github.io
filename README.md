@@ -52,6 +52,4 @@
             <p>Numero de Telefono:3718-597499</p>
             <p>Numero fijo:0800-555-444</p>
         </footer>
-    
-    
-    </body>
+
