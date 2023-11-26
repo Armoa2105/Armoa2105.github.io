@@ -24,15 +24,15 @@
             <h2>Informacion Carrera</h2>
             <div class="projects-grid">
                 <a href="perfil.html"><img
-                        src="img/desarrollo-movil.png" alt="Sin-t-tulo-1" border="0">
+                        src="desarrollo-movil.png" alt="Sin-t-tulo-1" border="0">
                     <p class="project-title"><span>Perfil Formativo</span></p>
                 </a>
                 <a href="profesional.html"><img
-                        src="img/desarrollo-movil.png" alt="Sin-t-tulo-2" border="0">
+                        src="desarrollo-movil.png" alt="Sin-t-tulo-2" border="0">
                     <p class="project-title"><span>Perfil Profesional</span></p>
                 </a>
                 <a href="estructura.html"><img
-                        src="img/desarrollo-movil.png" alt="Sin-t-tulo-3" border="0">
+                        src="desarrollo-movil.png" alt="Sin-t-tulo-3" border="0">
                     <p class="project-title"><span>Estructura Curricular</span></p>
                 </a>
             </div>
