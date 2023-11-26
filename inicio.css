@@ -68,7 +68,7 @@ html{
       
   }
   .nav-list  a{
-      font-size: 2rem;
+      font-size: 3rem;
       padding: 2rem;
   }
   .nav-list a:hover{
@@ -107,7 +107,7 @@ html{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(320px,1fr));
     grid-gap: 4rem;
-    width: 80%;
+    width: 90%;
     max-width: 120%;
     margin: 0 auto;
     margin-bottom: 6rem;
