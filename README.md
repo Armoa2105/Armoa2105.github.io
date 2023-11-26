@@ -4,9 +4,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="PNG.png">
     <link rel="stylesheet" href="inicio.css">
-    <link rel="stylesheet" href="perfil.html">
-    <link rel="stylesheet" href="estructura.html">
-        <link rel="stylesheet" href="profesional.html">
 </head>
 <body>
         <nav class="nav" id="navbar">
